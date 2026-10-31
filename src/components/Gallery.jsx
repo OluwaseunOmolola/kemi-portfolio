@@ -66,7 +66,6 @@ export default function Gallery({ items, head }) {
           )
         })}
       </ul>
-      <p className="hint">Select a photo to enlarge it. Use the arrow keys to move between photos.</p>
     </section>
   )
 }

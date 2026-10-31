@@ -44,7 +44,7 @@ export default function SelectedPublications({ items, email }) {
               </svg>
             </span>
             <div>
-              <h2 id="selected-publications-title">Selected Publications</h2>
+              <h2 id="selected-publications-title">Publications</h2>
               <p>Research, academic and professional publications.</p>
             </div>
           </div>
